@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.9)
-project(opencv_gui_test)
+project(image_labeltool)
 
 
 set(CMAKE_CXX_COMPILER g++)

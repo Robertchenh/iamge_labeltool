@@ -19,6 +19,6 @@ Installation
 
 Using
 
-1.put your inamge into the 'iamge_datas'
+1.put your images into the 'iamge_datas'
 2.open the tool      ./iamge_labeltool
 3.do your work easy, your label will in the 'image_label'
